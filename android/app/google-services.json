@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "884401393169",
+    "project_id": "eilac-23deb",
+    "storage_bucket": "eilac-23deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884401393169:android:ef78354d2110be884eabb0",
+        "android_client_info": {
+          "package_name": "com.eilac.pharmacyappproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW7RnnAF0Oi8gMQd-GsnvFyW8eTUuiLj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884401393169:android:61ec7babcc33895e4eabb0",
+        "android_client_info": {
+          "package_name": "com.eilac.ridersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW7RnnAF0Oi8gMQd-GsnvFyW8eTUuiLj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884401393169:android:3e00a2e0aa344a434eabb0",
+        "android_client_info": {
+          "package_name": "com.eilac.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW7RnnAF0Oi8gMQd-GsnvFyW8eTUuiLj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
