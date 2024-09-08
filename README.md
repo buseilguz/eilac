@@ -1,1 +1,2 @@
 # eilac
+This project is a Tubitak-supported project developed to facilitate the supply of prescribed medications for individuals who have difficulty accessing medication. Within the scope of the project, patients will be able to order their medications from nearby pharmacies via a mobile application. The pharmacy that receives the order delivers the delivery to the courier in a secure box that only the patient can open. In this way, the medications are delivered to the patient safely.
